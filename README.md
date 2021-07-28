@@ -6,5 +6,5 @@ This application can be used to create a database for employee departments, role
 ![image](https://user-images.githubusercontent.com/84876493/127259953-228a0476-ab81-47cd-97a7-4bf15eeb18f9.png)
 
 # Links
-This is deployed at:
+This is deployed at:https://mandrewartha.github.io/sql-employee-tracker/
 The walkthrough video is at: https://drive.google.com/file/d/1wBTwZQlEx7SkZfsQUgcSL37xcxyKY1db/view
